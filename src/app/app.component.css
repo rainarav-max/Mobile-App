@@ -1,0 +1,28 @@
+h2{
+  color: yellow;
+  font-size: xx-large;
+  text-align: left;
+}
+li{
+  text-align: left;
+  font-size: x-large;
+}
+h1{
+  text-align: center;
+  color: lightcoral;
+}
+p{
+  font-size: x-large;
+}
+header{
+  font-size: xx-large;
+  color: red;
+}
+.grid{
+  font-size: x-large;
+}
+main{
+  padding-left: 1em;
+  text-align: center;
+  background-color: lightcoral;
+}
